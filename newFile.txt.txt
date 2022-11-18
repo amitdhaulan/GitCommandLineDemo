@@ -1,1 +1,6 @@
 Hello this is the Git command line demo file.
+
+Added some extra lines.
+.
+.
+.
